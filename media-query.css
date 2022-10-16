@@ -2,7 +2,10 @@
   Do something on here @small screen
 }
 
-@mdia screen and (min-width:321px) and (max-width:768px){
-
+@media screen and (min-width:321px) and (max-width:768px){
   Do something on here @medium screen
+}
+
+@media screen and (min-width:769px) and (max-width:1024px){
+  Do something on here @desktop screen
 }
