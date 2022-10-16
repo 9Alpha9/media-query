@@ -9,3 +9,7 @@
 @media screen and (min-width:769px) and (max-width:1024px){
   Do something on here @desktop screen
 }
+
+@media screen and (min-width:1025px) and (max-width:2560px){
+  Do something on here @2Kdesktop screen
+}
